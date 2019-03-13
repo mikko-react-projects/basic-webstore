@@ -1,0 +1,34 @@
+div.ui.secondary.menu {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.clearfix {
+  width: 300px
+}
+
+.clearfix .box {
+    box-sizing: border-box;
+}
+
+.box {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+}
+
+div.cart-item {
+  width: 250px;
+  border-bottom: 1px solid;
+}
+
+td {
+  vertical-align: top;
+}
+
+div.ui.red.mini.circular.floating.label {
+  top: 0.7em;
+  left: 85%;
+}
+
+a { cursor: pointer; }

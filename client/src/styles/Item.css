@@ -1,0 +1,30 @@
+div.item {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+div.item-image {
+  width: 50%;
+  padding: 5%;
+  float: left;
+}
+
+div.item-details {
+  width: 50%;
+  padding: 5%;
+  float: right;
+}
+
+div.item-details p {
+  white-space: pre-line;
+}
+
+div.dropdown-button {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+div.additem-selection {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

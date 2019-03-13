@@ -1,0 +1,22 @@
+div.product-wrapper {
+  position: relative;
+}
+
+div.product-wrapper img {
+  width: 100%;
+}
+
+.top-text {
+  display: none;
+  position: absolute;
+  font-size: 14px;
+  color: #7b7b7b;
+  top: 20px;
+  left: 20px;
+  z-index: 99;
+  pointer-events: none;
+}
+
+div.product-wrapper:hover .top-text {
+  display: inline;
+}

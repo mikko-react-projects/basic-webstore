@@ -1,0 +1,21 @@
+div.cart {
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: 100px;
+}
+
+div.cart-data {
+  width: 60%;
+  float: left;
+}
+
+div.total-data {
+  width: 40%;
+  float: right;
+}
+
+table.cart-header-data {
+  width: 100%;
+}
+
+th { border-bottom: 1px solid }
